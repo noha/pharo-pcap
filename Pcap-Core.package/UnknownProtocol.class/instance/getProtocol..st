@@ -1,0 +1,3 @@
+accessing
+getProtocol: aProtocolClass 
+	^ nil

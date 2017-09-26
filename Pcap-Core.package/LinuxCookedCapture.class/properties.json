@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "PProtocol",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"protocol",
+		"packetType",
+		"linkLayerAddressType",
+		"linkLayerAddressLength",
+		"source"
+	],
+	"name" : "LinuxCookedCapture",
+	"type" : "normal"
+}

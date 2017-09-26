@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PProtocol",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"identifier"
+	],
+	"name" : "UnknownProtocol",
+	"type" : "normal"
+}

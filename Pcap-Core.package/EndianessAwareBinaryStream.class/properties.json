@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BinaryStream",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"swap"
+	],
+	"name" : "EndianessAwareBinaryStream",
+	"type" : "normal"
+}

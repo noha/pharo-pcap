@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PProtocol",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"protocol",
+		"flags",
+		"data"
+	],
+	"name" : "SCTPDataChunk",
+	"type" : "normal"
+}

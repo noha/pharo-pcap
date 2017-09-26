@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PProtocol",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MTP2UserAdaptionLayer",
+	"type" : "normal"
+}

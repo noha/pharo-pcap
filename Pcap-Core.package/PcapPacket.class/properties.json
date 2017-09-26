@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "PcapStructure",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"seconds",
+		"microSeconds",
+		"includedLength",
+		"originalLength",
+		"packetData",
+		"packet"
+	],
+	"name" : "PcapPacket",
+	"type" : "normal"
+}

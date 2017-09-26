@@ -1,0 +1,3 @@
+accessing
+readFrom: aStream 
+	^ self

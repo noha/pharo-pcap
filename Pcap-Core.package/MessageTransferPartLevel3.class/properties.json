@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PProtocol",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"serviceIndicator"
+	],
+	"name" : "MessageTransferPartLevel3",
+	"type" : "normal"
+}

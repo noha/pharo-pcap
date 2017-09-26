@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "PcapStructure",
+	"category" : "Pcap-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"majorVersion",
+		"minorVersion",
+		"timeZone",
+		"sigFigs",
+		"network",
+		"maxLength",
+		"swap"
+	],
+	"name" : "PcapGlobalHeader",
+	"type" : "normal"
+}
